@@ -1,0 +1,1 @@
+This is a python project which takes 4 stock symbols (In this case AAPL, TSLA, GME, AMC) and creats a real time graph using this information!
